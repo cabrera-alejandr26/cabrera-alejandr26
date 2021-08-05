@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/jquery/default.asp" target="_blank"> <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" alt="jquery" width="40" height="40"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img
             src="https://logos-world.net/wp-content/uploads/2020/11/Adobe-Photoshop-Logo.png" alt="photoshop"
-            width="50" height="40"/> </a>
+            width="50" height="50"/> </a>
     <!--    Back-End-->
     <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
