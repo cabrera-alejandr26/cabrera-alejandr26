@@ -43,4 +43,4 @@ and contribute to impactful projects.</p>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cabrera-alejandr26&count_private=true&theme=merko&showicons=true" alt="alejandro-cabrera" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabrera-alejandr26&show_icons=true&locale=en&layout=compact&langs_count=5&theme=merko" alt="alejandro-cabrera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabrera-alejandr26&show_icons=true&locale=en&layout=compact&langs_count=8&theme=merko" alt="alejandro-cabrera" /></p>
