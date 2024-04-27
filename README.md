@@ -47,7 +47,5 @@ Here are some ideas to get you started:
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabrera-alejandr26&show_icons=true&locale=en" alt="alejandro-cabrera" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabrera-alejandr26&show_icons=true&locale=en&layout=compact" alt="alejandro-cabrera" /></p>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cabrera-alejandr26&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cabrera-alejandr26&langs_count=5&theme=tokyonight)]()
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cabrera-alejandr26&count_private=true&theme=tokyonight&showicons=true" alt="alejandro-cabrera" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cabrera-alejandr26&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="alejandro-cabrera" /></p>
