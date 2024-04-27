@@ -6,14 +6,13 @@
 <i class="devicon-photoshop-plain colored"></i>
 
 
-**cabrera-alejandr26/cabrera-alejandr26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Dedicated and results-driven Software Developer
+<p>Dedicated and results-driven Software Developer
 with a fervent enthusiasm for pioneering
 advancements in technology. Eager to embrace
 new challenges and cultivate expertise in emerging
 fields within the tech industry. Seeking to leverage
 skills in cloud architecture, software development
-and contribute to impactful projects.
+and contribute to impactful projects.</p>
 
 
 <h3 align="left">Connect with me:</h3>
